@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, i'm Roberto Furini (he/him)!
+## Hi, i'm Roberto Furini!
 ```yaml
 personal:
   name: 'Roberto'
