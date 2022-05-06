@@ -1,6 +1,8 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
+
 **Lobster-dev/Lobster-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, i'm Roberto Furini (he/him)!
+```yaml
+personal:
+  name: 'Roberto'
+  surname: 'Furini'
+  age: 19
+  city: 'Curitiba, Brazil'
+professional:
+  employed: true
+  title: 'backend assistant back Office'
+  employer: 'MadeiraMadeira'
+bio:
+  techStack:
+    - 'Python'
+    - 'Linux'
+    - 'PHP'
+    - 'Docker'
+    - 'Laravel'
+  hobbies:
+    - 'Gaming'
+    - 'Films'
+    - 'Anime'
+```
+#
+### 🤝🏻 connect with me! 🤝🏻
+
+<a href="https://www.linkedin.com/in/roberto-furini-0b3a27232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roberto%20Furini-blue?style=flat-square&logo=linkedin&logoColor=blue"></a>
+#
+[![Lobster GitHub stats](https://github-readme-stats.vercel.app/api?username=Lobster-dev&theme=dracula)](https://github.com/Lobster-dev/)]
+#
