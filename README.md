@@ -28,6 +28,13 @@ professional:
   employed: true
   title: 'backend assistant back Office'
   employer: 'MadeiraMadeira'
+college:
+  styding: True
+  course: 'Analysis and systems development'
+  educational-institution: 'Universidade Positivo'
+  time: '2 years'
+  start-year: 2021
+  finis-year: 2022
 bio:
   techStack:
     - 'Python'
