@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 personal:
   name: 'Roberto'
   surname: 'Furini'
-  age: 19
+  age: 18
   city: 'Curitiba, Brazil'
 professional:
   employed: true
