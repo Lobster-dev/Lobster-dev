@@ -41,7 +41,9 @@ bio:
     - 'Linux'
     - 'PHP'
     - 'Docker'
-    - 'Laravel'
+    frameWork:
+      - 'Laravel'
+      - 'Serverless'
   hobbies:
     - 'Gaming'
     - 'Films'
