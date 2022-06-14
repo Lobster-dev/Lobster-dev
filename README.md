@@ -29,7 +29,7 @@ professional:
   title: 'backend assistant back Office'
   employer: 'MadeiraMadeira'
 college:
-  styding: True
+  studying: True
   course: 'Analysis and systems development'
   educational-institution: 'Universidade Positivo'
   time: '2 years'
