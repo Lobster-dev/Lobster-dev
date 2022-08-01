@@ -56,4 +56,4 @@ bio:
 #
 [![Lobster GitHub stats](https://github-readme-stats.vercel.app/api?username=Lobster-dev&theme=vue-dark&count_private=true)](https://github.com/Lobster-dev/)]
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lobster-dev&hide=java)](https://github.com/Lobster-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lobster-dev&hide=java&theme=vue-dark)](https://github.com/Lobster-dev)
