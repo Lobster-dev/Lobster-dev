@@ -44,6 +44,8 @@ bio:
     frameWorks:
       - 'Laravel'
       - 'Serverless'
+    cloud:
+      - aws
   hobbies:
     - 'Gaming'
     - 'Films'
