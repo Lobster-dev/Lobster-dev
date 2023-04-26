@@ -34,7 +34,7 @@ college:
   educational-institution: 'Universidade Positivo'
   time: '2 years'
   start-year: 2021
-  finish-year: 2022
+  finish-year: 2023
 bio:
   techStack:
     - 'Python'
