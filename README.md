@@ -26,8 +26,8 @@ personal:
   city: 'Curitiba, Brazil'
 professional:
   employed: true
-  title: 'backend assistant back Office'
-  employer: 'MadeiraMadeira'
+  title: 'backend Developper'
+  employer: ''
 college:
   studying: True
   course: 'Analysis and systems development'
