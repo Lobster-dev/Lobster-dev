@@ -56,6 +56,6 @@ bio:
 
 <a href="https://www.linkedin.com/in/roberto-furini-0b3a27232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roberto%20Furini-blue?style=flat-square&logo=linkedin&logoColor=blue"></a>
 #
-[![Lobster GitHub stats](https://github-readme-stats.vercel.app/api?username=Lobster-dev&theme=vue-dark&count_private=true)](https://github.com/Lobster-dev/)
+<!-- [![Lobster GitHub stats](https://github-readme-stats.vercel.app/api?username=Lobster-dev&theme=vue-dark&count_private=true)](https://github.com/Lobster-dev/) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lobster-dev&theme=vue-dark)](https://github.com/Lobster-dev)
