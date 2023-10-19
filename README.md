@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 personal:
   name: 'Roberto'
   surname: 'Furini'
-  age: 19
+  age: 20
   city: 'Curitiba, Brazil'
 professional:
   employed: true
-  title: 'backend Developper'
-  employer: ''
+  title: 'Junior Developer'
+  employer: 'Nomos'
 college:
   studying: True
   course: 'Analysis and systems development'
