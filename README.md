@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 ```yaml
 personal:
   name: 'Roberto'
-  surname: 'Rissini Furini'
-  age: 24
+  surname: 'Furini'
   city: 'Curitiba, Brazil'
 
 professional:
