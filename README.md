@@ -21,35 +21,66 @@ Here are some ideas to get you started:
 ```yaml
 personal:
   name: 'Roberto'
-  surname: 'Furini'
-  age: 20
+  surname: 'Rissini Furini'
+  age: 24
   city: 'Curitiba, Brazil'
+
 professional:
-  employed: true
-  title: 'Junior Developer'
-  employer: 'Nomos'
+  employed: false
+  professionalExperience:
+    - title: 'Software Developer'
+      employer: 'Nomos Acessória de Investimentos'
+      period: '07/2023 – 02/2025'
+      remote: true
+    - title: 'Systems Development Assistant'
+      employer: 'MadeiraMadeira'
+      period: '03/2022 – 03/2023'
+      remote: true
+    - title: 'Young Apprentice'
+      employer: 'MadeiraMadeira'
+      period: '02/2021 – 03/2022'
+      remote: true
+
 college:
-  studying: True
-  course: 'Analysis and systems development'
+  studying: false
+  course: 'Analysis and Systems Development'
   educational-institution: 'Universidade Positivo'
   time: '2 years'
   start-year: 2021
   finish-year: 2023
+
 bio:
   techStack:
     - 'Python'
-    - 'Linux'
     - 'PHP'
     - 'Docker'
-    frameWorks:
-      - 'Laravel'
-      - 'Serverless'
-    cloud:
-      - aws
+    - 'FastAPI'
+    - 'Redis'
+    - 'Pandas'
+    - 'MySQL'
+    - 'Zendesk'
+  frameWorks:
+    - 'Laravel'
+    - 'Lumen'
+    - 'FastAPI'
+    - 'Serverless'
+  cloud:
+    - 'AWS'
+    - 'Azure'
+  monitoring:
+    - 'New Relic'
+  languages:
+    - 'Portuguese: Native'
+    - 'English: Advanced'
+    - 'Spanish: Basic'
+  certifications:
+    - 'Unit Testing and Test Driven Development in Python – Udemy'
+    - 'Professional Qualification in Software Development – Senac, 2022'
   hobbies:
     - 'Gaming'
-    - 'Films'
-    - 'Anime'
+    - 'Movies'
+    - 'Technology'
+
 ```
 #
 ### 🤝🏻 connect with me! 🤝🏻
